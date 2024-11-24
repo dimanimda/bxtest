@@ -6,9 +6,9 @@
 Если часть задания не выполнена - написать какие пункты остались и сколько времени (в часах) необходимо на полную готовность.<br>
 
 Страницы фронта:
-- [Главная страница](https://dimanimda.github.io/bxtest/index.html) 
-- [Раздел с исполнителями](https://dimanimda.github.io/bxtest/artists-list.html)
-- [Детальная страница исполнителя](https://dimanimda.github.io/bxtest/artist.html)
+- [Главная страница](https://dimanimda.github.io/docs/index.html) 
+- [Раздел с исполнителями](https://dimanimda.github.io/docs/artists-list.html)
+- [Детальная страница исполнителя](https://dimanimda.github.io/docs/artist.html)
 
 # Задание 
 
