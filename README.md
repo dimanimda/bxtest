@@ -5,6 +5,9 @@
 На выполнение дается 2 дня.<br>
 Если часть задания не выполнена - написать какие пункты остались и сколько времени (в часах) необходимо на полную готовность.<br>
 
+Репозиторий
+- [Ссылка на репозиторий](https://github.com/dimanimda/dimanimda.github.io)
+
 Страницы фронта:
 - [Главная страница](https://dimanimda.github.io/docs/index.html) 
 - [Раздел с исполнителями](https://dimanimda.github.io/docs/artists-list.html)
